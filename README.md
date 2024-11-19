@@ -2,13 +2,20 @@
 
 **¿Cuál es la finalidad del archivo vercel.json?**
 
-    Para que la plataforma vercel tenga la informacion de la configuracion del proyecto y se pueda hacer correcto deploy
+    Para que la plataforma vercel tenga la informacion de la configuracion del proyecto y se pueda
+    hacer correcto deploy
   
 **¿Qué ventajas tiene desplegar en Vercel frente a un servidor tradicional?**
 
-    ==> Solo se necesitan pocas configuraciones para hacer el deploy y muchas otras son automaticas
-    ==> Puedes entrar a tu cuenta y hacer configuraciones rapidas de muchos deploys con mas comodidad
-    ==> Vercel toma en cuenta el repositorio en linea, asi que es mas facil de transferir archivos, modificarlos y saber cuales son. 
+    ==> Solo se necesitan pocas configuraciones para hacer el deploy y muchas otras 
+        son automaticas
+        
+    ==> Puedes entrar a tu cuenta y hacer configuraciones rapidas de muchos deploys 
+        con mas comodidad
+        
+    ==> Vercel toma en cuenta el repositorio en linea, asi que es mas facil de 
+        transferir archivos modificarlos y saber cuales son. 
+        
     ==> Configuración automática para frameworks
     
   ![image](https://github.com/user-attachments/assets/7b52b773-028c-44ee-87ff-ee6cc2dd0c11)
